@@ -1,5 +1,4 @@
 # Python for Microscopists and other image processing enthusiasts
-https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w?sub_confirmation=1
 
 The YouTube channel associated with this code walks you through the entire process of learning to code in Python; all the way from basics to advanced machine learning and deep learning. The primary emphasis will be on image processing and other relevant functionality. 
 
